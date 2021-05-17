@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "704985039418",
+    "project_id": "snap-app-ece49",
+    "storage_bucket": "snap-app-ece49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704985039418:android:9a0f3f8969aace88456b03",
+        "android_client_info": {
+          "package_name": "com.example.snapchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704985039418-0v5rdmh58q34b9el5upm8jlj6rc8t5ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7m6f1JzG9OIvofIipBmQoGShBkJ17iSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704985039418-0v5rdmh58q34b9el5upm8jlj6rc8t5ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704985039418:android:29f6a08440f2907a456b03",
+        "android_client_info": {
+          "package_name": "com.joneikholm.listview21spring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704985039418-0v5rdmh58q34b9el5upm8jlj6rc8t5ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7m6f1JzG9OIvofIipBmQoGShBkJ17iSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704985039418-0v5rdmh58q34b9el5upm8jlj6rc8t5ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
