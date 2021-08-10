@@ -1,5 +1,7 @@
 package com.example.snapchat;
 
+//Hunden er fin
+
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.AppCompatEditText;
 
